@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Esi Tawiah Abbey
-description: "Hi I'm Esi, and I'm a Data Scientist who is passionate about data and loves working with Python, SQL, Excel, and with data visualisation tools like Tableau."
+description: "Hi I'm Esi, a Data Scientist who is really passionate about data and loves working with Python, SQL, Excel, and with data visualisation tools like Tableau."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
