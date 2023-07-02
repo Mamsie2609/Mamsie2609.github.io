@@ -107,8 +107,6 @@ Based on the performance metrics, the SGD Classifier model outperformed the othe
 <br>
 <br>
 
-___
-
 # Data Overview  <a name="data-overview"></a>
 
 | **Variable Name** | **Description** |
