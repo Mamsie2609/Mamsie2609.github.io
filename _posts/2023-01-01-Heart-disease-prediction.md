@@ -37,7 +37,7 @@ Peterside Hospital embarked on a significant project to enhance its patient care
 
 To commence the heart disease prediction project, the first step was to compile the essential data by collecting key patient metrics that could potentially aid in predicting the likelihood of heart disease. This involved gathering relevant information from various sources and databases.
 
-Next, I proceeded to test eight different machine learning models as part of the predictive modelling process. These models included:
+Next, I proceeded to test eight different machine learning models as part of the predictive modelling process. These models include:
 
 * Logistic Regression
 * Random Forest
@@ -333,7 +333,6 @@ plt.title('Total Number of Patients');
 ```python
 
 # Data Visualisation
-
 # Investigate the gender distribution of the patients. 
 def Gender (sex) :
     if sex == 1:
@@ -375,7 +374,6 @@ plt.show()
 ```python
 
 # Data Visualisation
-
 # Visualise the distribution of patients based on the different categories of chest pain.
 
 def chest_pain(cp):
@@ -411,7 +409,6 @@ plt. title("Total Number of Patients");
 ```python
 
 # Data Visualisation
-
 # target - have disease or not (1=yes, 0=no)
 def label(tg):
     if tg == 1:
@@ -441,7 +438,7 @@ plt. title( 'Total Number of Patients');
 
 <br>
 
-# Bivariate Analysis<a name="bivariate-analysis"></a>
+## Bivariate Analysis<a name="bivariate-analysis"></a>
 
 ##### Visualising the distribution of the age group of patients and whether they have a disease (represented by the 'label' column)
 
@@ -501,7 +498,7 @@ plt.title('Total Number of Patients');
 
 <br>
 
-# Multivariate Analysis <a name="multiivariate-analysis"></a>
+## Multivariate Analysis <a name="multiivariate-analysis"></a>
 
 ##### Correlation between the features in the dataset
 
@@ -539,7 +536,7 @@ label = df [ ['target' ]]
 
 <br>
 
-##### Normalize the data
+##### Normalise the data
 
 ```python
 
@@ -665,7 +662,6 @@ print("AUC-ROC:", roc_auc_score(y_test, rfy_pred))
 <br>
 
 ##### Create a confusion matrix
-
 
 ```python
 
