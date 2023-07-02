@@ -230,7 +230,7 @@ sns.heatmap(df.isnull(), cbar=True, cmap="Blues_r");
 df.columns
 
 ```
-<be>
+<br>
 
 ##### Check for outliers 
 
