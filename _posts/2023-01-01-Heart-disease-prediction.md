@@ -230,6 +230,7 @@ sns.heatmap(df.isnull(), cbar=True, cmap="Blues_r");
 df.columns
 
 ```
+<be>
 
 ##### Check for outliers 
 
@@ -246,7 +247,6 @@ sns.boxplot(x=df["thalassemia"]);
 
 ##### Check for outliers 
 
-
 ```python
 
 sns.boxplot(x=df["cholesterol"]);
@@ -260,19 +260,18 @@ sns.boxplot(x=df["cholesterol"]);
 
 ##### Check for outliers 
 
-
 ```python
 
 sns.boxplot(x=df["resting_blood_pressure"]);
 
 ```
+
 <br>
 ![alt text](/img/posts/resting_blood_pressure.png "resting_blood_pressure")
 
 <br>
 
 ##### Check for outliers 
-
 
 ```python
 
