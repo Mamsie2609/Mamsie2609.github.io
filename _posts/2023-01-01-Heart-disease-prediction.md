@@ -460,7 +460,7 @@ plt.title('Total Number of Patients');
 
 <br>
 
-* In terms of age groups, middle-aged adults have a higher incidence of diagnosed heart disease compared to those without a diagnosis. Among senior citizens, the proportion of individuals without a heart disease diagnosis is greater than those with a diagnosis. In the elderly population, the number of patients with a heart disease diagnosis is slightly higher than those without. For young adults, there are more individuals with a heart disease diagnosis than without.
+* In terms of age groups, middle-aged adults have a higher incidence of diagnosed heart disease compared to those without a diagnosis. Among senior citizens, the proportion of individuals without a heart disease diagnosis is greater than that of those with a diagnosis. In the elderly population, the number of patients with a heart disease diagnosis is slightly higher than those without. For young adults, there are more individuals with a heart disease diagnosis than without.
 
 <br>
 
@@ -626,7 +626,7 @@ plt.show()
 ```
 
 <br>
-![alt text](/img/posts/Confusion_Matrix.png "Confusion matrix")
+![alt text](/img/posts/Confusion matrix.png "Confusion matrix")
 
 * True Positive (TP): The model correctly predicted 25 individuals as having a heart disease.
 * False Positive (FP): The model incorrectly predicted 4 individuals as having a heart disease when they actually did not.
