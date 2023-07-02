@@ -111,7 +111,6 @@ Based on the performance metrics, the SGD Classifier model outperformed the othe
 
 | **Variable Name** | **Description** |
 |---|---|
-
 |age | age in years|
 |sex |1 = male; 0 = female|
 |cp | chest pain type (1: typical angina, 2: atypical angina, 3: non-anginal pain, 4; asymptomatic)|
