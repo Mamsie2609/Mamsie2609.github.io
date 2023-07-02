@@ -456,7 +456,7 @@ plt.title('Total Number of Patients');
 ```
 
 <br>
-![alt text](/img/posts/distribution of the age group of patients whether they have a heart disease or not.png "Age distribution based on the categories of target")
+![alt text](/img/posts/distribution of the age group of patients whether they have a disease or not.png "Age distribution based on the categories of target")
 
 <br>
 
